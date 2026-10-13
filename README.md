@@ -10,3 +10,5 @@ Day-3 Taking input from user and checking whether the number is even or odd.
 Day-4 taking 3 numbers from user and finding which is the greatest among three.
 
 Day-5 taking input from user and checking whether the number is positive, negative or 0.
+
+Day-6 taking two numbers and choice from user to perform operations in simple calculator.
