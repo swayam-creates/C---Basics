@@ -14,3 +14,5 @@ Day-5 taking input from user and checking whether the number is positive, negati
 Day-6 taking two numbers and choice from user to perform operations in simple calculator.
 
 Day-7 printing hello 10 times using for loop.
+
+Day-8 taking input from user and printing multiplication table of it.
