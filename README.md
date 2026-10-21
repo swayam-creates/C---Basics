@@ -16,3 +16,5 @@ Day-6 taking two numbers and choice from user to perform operations in simple ca
 Day-7 printing hello 10 times using for loop.
 
 Day-8 taking input from user and printing multiplication table of it.
+
+Day-9 printing a pattern using for loop.
