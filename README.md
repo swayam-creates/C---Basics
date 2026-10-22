@@ -18,3 +18,5 @@ Day-7 printing hello 10 times using for loop.
 Day-8 taking input from user and printing multiplication table of it.
 
 Day-9 printing a pattern using for loop.
+
+Day-10 printing a star pattern using for loop. 
