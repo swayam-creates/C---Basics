@@ -24,3 +24,5 @@ Day-10 printing a star pattern using for loop.
 Day-11 prining a pyramid pattern using for loop.
 
 Day-12 printing a inverted pyramid pattern using for loop.
+
+Day-13 printing a diamond pattern using for loop.
