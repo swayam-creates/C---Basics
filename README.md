@@ -26,3 +26,5 @@ Day-11 prining a pyramid pattern using for loop.
 Day-12 printing a inverted pyramid pattern using for loop.
 
 Day-13 printing a diamond pattern using for loop.
+
+Day-14 printing a number pyramid using for loops and nested loops.
