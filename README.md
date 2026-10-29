@@ -32,3 +32,5 @@ Day-14 printing a number pyramid using for loops and nested loops.
 Day-15 printing largest element in an array.
 
 Day-16 printing smallest element in an array.
+
+Day-17 printing largest as well as smallest element in an array.
